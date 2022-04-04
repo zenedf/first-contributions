@@ -23,6 +23,7 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 -[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
+- [zenedf](https://github.com/zenedf)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
